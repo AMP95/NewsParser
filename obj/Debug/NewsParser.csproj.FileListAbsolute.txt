@@ -1,0 +1,11 @@
+F:\Проекты\С#\NewsParser\NewsParser\bin\Debug\NewsParser.exe.config
+F:\Проекты\С#\NewsParser\NewsParser\bin\Debug\NewsParser.exe
+F:\Проекты\С#\NewsParser\NewsParser\bin\Debug\NewsParser.pdb
+F:\Проекты\С#\NewsParser\NewsParser\obj\Debug\NewsParser.csproj.AssemblyReference.cache
+F:\Проекты\С#\NewsParser\NewsParser\obj\Debug\NewsParser.Form1.resources
+F:\Проекты\С#\NewsParser\NewsParser\obj\Debug\NewsParser.Properties.Resources.resources
+F:\Проекты\С#\NewsParser\NewsParser\obj\Debug\NewsParser.csproj.GenerateResource.cache
+F:\Проекты\С#\NewsParser\NewsParser\obj\Debug\NewsParser.csproj.CoreCompileInputs.cache
+F:\Проекты\С#\NewsParser\NewsParser\obj\Debug\NewsParser.exe
+F:\Проекты\С#\NewsParser\NewsParser\obj\Debug\NewsParser.pdb
+F:\Проекты\С#\NewsParser\NewsParser\obj\Debug\NewsParser.Form2.resources
